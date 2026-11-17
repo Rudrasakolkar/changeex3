@@ -1,0 +1,15 @@
+.box > div{
+    height:250px;
+}
+
+h2{
+    color:#414770;
+    font-weight:strong;
+    padding:20px;
+}
+
+img{
+    height:250px;
+    width:100%;
+    object-fit:cover;
+}
